@@ -42,14 +42,14 @@ A simple and efficient budget management and savings tracking web app built with
 3. **Access the app**
    Open http://127.0.0.1:5000 in your browser
 
-##🚀 Usage
+## 🚀 Usage
 1. Home Page: View a summary of your total expenses, budget set, and remaining budget.
 2. Add Entry: Use the form to add expenses by providing details like date, category, amount, and description.
 3. Set Budget: Define a total budget limit, which updates the remaining balance calculation.
 4. Savings Page: Add savings goals to track towards achieving financial goals.
 5. About Page: Get information about the development team.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 1. Python & Flask - Backend development
 2. HTML/CSS - Frontend templates and styling
 3. CSV Files - Data storage for budget entries, savings goals, and user budgets
